@@ -3,8 +3,7 @@
   "locales": [
     "en",
     "ja",
-    "ru",
-    "zh"
+    "ru"
   ],
   "defaultLocale": "en",
   "files": {
