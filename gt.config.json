@@ -13,5 +13,6 @@
       "output": "public/_gt/[locale].json"
     }
   },
-  "framework": "next-app"
+  "framework": "next-app",
+  "baseUrl": "http://localhost:10000"
 }
